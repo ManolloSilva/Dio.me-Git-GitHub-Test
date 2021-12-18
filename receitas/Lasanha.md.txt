@@ -1,7 +1,7 @@
-#*Lasanha de Carne*
+# *Lasanha de Carne*
 
 
-###Ingredientes
+### Ingredientes
 
 1kg de carne
 500g de presunto
